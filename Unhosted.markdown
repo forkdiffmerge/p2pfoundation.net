@@ -2,9 +2,10 @@
 
 [][1]
 
-# Unhosted
+# 
+Unhosted
 
-### From P2P Foundation
+From P2P Foundation
 
  Jump to: [navigation][2], [search][3]
 
@@ -355,17 +356,21 @@ be used much more widely than just for Diaspora." ([http://blogs.fsfe.org/fellow
 
 See: [Free Network Services][13]
 
- Retrieved from "[http://p2pfoundation.net/Unhosted][14]"
+ Retrieved from "[?title=Unhosted&oldid=63759][14]" 
 
-[Categories][15]: [Technology][16] | [Standards][17] | [P2P Infrastructure][18]
+[Categories][15]: 
+
+* [Technology][16]
+* [Standards][17]
+* [P2P Infrastructure][18]
 
 ----
 
-This page was forked with permission from [http://p2pfoundation.net/Unhosted][14]
+This page was forked with permission from [http://p2pfoundation.net/Unhosted][19]
 
 ----
 
-[![Attribution-ShareAlike 3.0 Unported][19]][20]
+[![Attribution-ShareAlike 3.0 Unported][20]][21]
 
 [1]: 
 [2]: #mw-head
@@ -380,10 +385,11 @@ This page was forked with permission from [http://p2pfoundation.net/Unhosted][14
 [11]: http://www.unhosted.org/manifesto.html
 [12]: http://blogs.fsfe.org/fellowship-interviews/?p=299
 [13]: http://p2pfoundation.net/Free_Network_Services (Free Network Services)
-[14]: http://p2pfoundation.net/Unhosted
+[14]: ?title=Unhosted&oldid=63759
 [15]: http://p2pfoundation.net/Special:Categories (Special:Categories)
 [16]: http://p2pfoundation.net/Category:Technology (Category:Technology)
 [17]: http://p2pfoundation.net/Category:Standards (Category:Standards)
 [18]: http://p2pfoundation.net/Category:P2P_Infrastructure (Category:P2P Infrastructure)
-[19]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-[20]: http://creativecommons.org/licenses/by-sa/3.0/
+[19]: http://p2pfoundation.net/Unhosted
+[20]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+[21]: http://creativecommons.org/licenses/by-sa/3.0/
