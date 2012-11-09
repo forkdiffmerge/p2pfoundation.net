@@ -2,27 +2,11 @@
 
 # Unhosted
 
-From P2P Foundation
-
-Jump to: navigation, search
-
 **= Freedom from web 2.0's monopoly platforms**
 
 URL = [http://www.unhosted.org](http://www.unhosted.org)
 
     
-
-    
-
-## Contents
-
-- 1 Definition
-  - 1.1 Naming The App Class
-
-- 2 Description
-- 3 Unhosted Manifesto
-- 4 Interview
-- 5 More Information
 
 # Definition
 
@@ -154,14 +138,7 @@ MdJ: Unhosted was sort of born on the Diaspora developer’s mailing-list. We we
 
 See: [Free Network Services](http://p2pfoundation.net/Free_Network_Services "Free Network Services")
 
-Retrieved from " [?title=Unhosted&oldid=63759](?title=Unhosted&oldid=63759) "
-
-  [Categories](http://p2pfoundation.net/Special:Categories "Special:Categories") :
-- [Technology](http://p2pfoundation.net/Category:Technology "Category:Technology")
-- [Standards](http://p2pfoundation.net/Category:Standards "Category:Standards")
-- [P2P Infrastructure](http://p2pfoundation.net/Category:P2P_Infrastructure "Category:P2P Infrastructure")
-
-----------
+* * *
 This page was forked with permission from [http://p2pfoundation.net/Unhosted](http://p2pfoundation.net/Unhosted)
-----------
+* * *
   ![Attribution-ShareAlike 3.0 Unported](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
